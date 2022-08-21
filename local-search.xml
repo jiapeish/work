@@ -14,11 +14,13 @@
     
     <tags>
       
+      <tag>distributed system</tag>
+      
+      <tag>consensus</tag>
+      
       <tag>raft</tag>
       
       <tag>paxos</tag>
-      
-      <tag>distributed system</tag>
       
       <tag>blockchain</tag>
       
@@ -27,8 +29,6 @@
       <tag>ethereum</tag>
       
       <tag>sharing</tag>
-      
-      <tag>consensus</tag>
       
     </tags>
     
