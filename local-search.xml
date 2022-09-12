@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>Paper GFS - Storage, GFS and Consistency</title>
+    <link href="/work/2022/09/12/dist-gfs/"/>
+    <url>/work/2022/09/12/dist-gfs/</url>
+    
+    <content type="html"><![CDATA[<p>We’ll talk about storage, GFS and consistency.</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Distributed System Sharing - Consensus and Blockchain</title>
     <link href="/work/2022/08/21/dist-share-blockchain/"/>
     <url>/work/2022/08/21/dist-share-blockchain/</url>
